@@ -1,0 +1,13 @@
+
+
+spring:
+  rabbitmq:
+    host: rabbitmq_port
+    username: rabbitmq_username
+    password: rabbitmq_password
+    port: rabbitmq_port
+
+  data:
+    redis:
+      host: redis_host
+      port: redis_port
